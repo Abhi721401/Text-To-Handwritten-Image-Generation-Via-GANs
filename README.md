@@ -1,4 +1,4 @@
-# Text-To-Handwritten-Image-Generation-Via-GANs
+# Text-To-Handwriting-Generation-Via-GANs
 
 ### User uploads their handwritten picture and a text paragraph , and our model converts it to user handwritten image
 
