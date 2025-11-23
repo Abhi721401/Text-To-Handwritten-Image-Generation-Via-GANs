@@ -2,6 +2,9 @@
 
 ### User uploads their handwritten picture and a text paragraph , and our model converts it to user handwritten image
 
+![Handwriting Style Transfer Flowchart](Demo.png)
+
+
 ### Project Goal:
 Build a model that can learn a person's handwriting style from a few image samples and then generate any paragraph in the same handwriting.
 This is similar to capabilities showcased in Google Nano Banana Pro, but implemented using open-source datasets and PyTorch.
